@@ -1,0 +1,8 @@
+5. Design a class DistanceConverter
+
+methods
+	- convertMilesToMeters
+	- convertMetersToMiles
+
+	- convertInchToCentimeter
+	- convertCentimeterToInch

@@ -1,0 +1,13 @@
+3. Create a classes Book and Author
+
+Author
+    - name(String)
+    - surname (String)
+    - gender ( enum - > MALE, FEMALE, OTHER )
+Book
+    - title (String)
+    - authors (array of type Author)
+    - price (double)
+
+
+Create a Book in main with multiple Authors

@@ -1,0 +1,9 @@
+4 Design a class TV
+
+TV
+channel: int
+volumeLevel: int
+on: boolean
+
+methods
+      turnOnOrOffTheTv()
